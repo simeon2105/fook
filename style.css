@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color:#1900ff
+}
+header{
+    background-color: aqua;
+    padding: 20px;
+    font-size: 20px;
+}
+
+ p i{
+    background-color: aqua;
+   
+    
+}
